@@ -1,6 +1,6 @@
 {
     "id": "https://milindmathai.github.io/schema.json",
-    "$schema": ""https://milindmathai.github.io/schema.json",
+    "$schema": "https://milindmathai.github.io/schema.json",
     "description": "Core schema meta-schema",
     "definitions": {
         "schemaArray": {
