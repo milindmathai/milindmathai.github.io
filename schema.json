@@ -1,6 +1,6 @@
 {
-    "id": "http://json-schema.org/draft-04/schema#",
-    "$schema": "http://json-schema.org/draft-04/schema#",
+    "id": "https://milindmathai.github.io/schema.json",
+    "$schema": ""https://milindmathai.github.io/schema.json",
     "description": "Core schema meta-schema",
     "definitions": {
         "schemaArray": {
